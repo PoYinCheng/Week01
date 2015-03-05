@@ -1,9 +1,9 @@
-class Hello {
+class Seven {
 	public static void main(String[] args) {
-		System.out.println("¡@¡@µ´¥y¡@§ù¨j");
-		System.out.println("¨â­Ó¶ÀùÏ»ï»A¬h¡A");
-		System.out.println("¤@¦æ¥ÕÆO¤W«C¤Ñ¡C");
-		System.out.println("µ¡§t¦èÀ­¤d¬î³·¡A");
-		System.out.println("ªùªyªF§d¸U¨½²î¡C");
+		System.out.println("ã€€ã€€çµ•å¥ã€€æœç”«");
+		System.out.println("å…©å€‹é»ƒé¸é³´ç¿ æŸ³ï¼Œ");
+		System.out.println("ä¸€è¡Œç™½é·ºä¸Šé’å¤©ã€‚");
+		System.out.println("çª—å«è¥¿å¶ºåƒç§‹é›ªï¼Œ");
+		System.out.println("é–€æ³Šæ±å³è¬é‡Œèˆ¹ã€‚");
 	}
 }
